@@ -1,0 +1,16 @@
+C:\Users\Mohammed\source\repos\Lab06\Lab06\obj\Debug\net5.0\Lab06.csprojAssemblyReference.cache
+C:\Users\Mohammed\source\repos\Lab06\Lab06\obj\Debug\net5.0\Lab06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammed\source\repos\Lab06\Lab06\obj\Debug\net5.0\Lab06.AssemblyInfoInputs.cache
+C:\Users\Mohammed\source\repos\Lab06\Lab06\obj\Debug\net5.0\Lab06.AssemblyInfo.cs
+C:\Users\Mohammed\source\repos\Lab06\Lab06\obj\Debug\net5.0\Lab06.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed\source\repos\Lab06\Lab06\bin\Debug\net5.0\Lab06.exe
+C:\Users\Mohammed\source\repos\Lab06\Lab06\bin\Debug\net5.0\Lab06.deps.json
+C:\Users\Mohammed\source\repos\Lab06\Lab06\bin\Debug\net5.0\Lab06.runtimeconfig.json
+C:\Users\Mohammed\source\repos\Lab06\Lab06\bin\Debug\net5.0\Lab06.runtimeconfig.dev.json
+C:\Users\Mohammed\source\repos\Lab06\Lab06\bin\Debug\net5.0\Lab06.dll
+C:\Users\Mohammed\source\repos\Lab06\Lab06\bin\Debug\net5.0\ref\Lab06.dll
+C:\Users\Mohammed\source\repos\Lab06\Lab06\bin\Debug\net5.0\Lab06.pdb
+C:\Users\Mohammed\source\repos\Lab06\Lab06\obj\Debug\net5.0\Lab06.dll
+C:\Users\Mohammed\source\repos\Lab06\Lab06\obj\Debug\net5.0\ref\Lab06.dll
+C:\Users\Mohammed\source\repos\Lab06\Lab06\obj\Debug\net5.0\Lab06.pdb
+C:\Users\Mohammed\source\repos\Lab06\Lab06\obj\Debug\net5.0\Lab06.genruntimeconfig.cache

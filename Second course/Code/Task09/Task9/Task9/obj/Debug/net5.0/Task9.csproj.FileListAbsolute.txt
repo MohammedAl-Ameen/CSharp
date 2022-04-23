@@ -1,0 +1,16 @@
+C:\Users\Mohammed\source\repos\Task9\Task9\bin\Debug\net5.0\Task9.exe
+C:\Users\Mohammed\source\repos\Task9\Task9\bin\Debug\net5.0\Task9.deps.json
+C:\Users\Mohammed\source\repos\Task9\Task9\bin\Debug\net5.0\Task9.runtimeconfig.json
+C:\Users\Mohammed\source\repos\Task9\Task9\bin\Debug\net5.0\Task9.runtimeconfig.dev.json
+C:\Users\Mohammed\source\repos\Task9\Task9\bin\Debug\net5.0\Task9.dll
+C:\Users\Mohammed\source\repos\Task9\Task9\bin\Debug\net5.0\ref\Task9.dll
+C:\Users\Mohammed\source\repos\Task9\Task9\bin\Debug\net5.0\Task9.pdb
+C:\Users\Mohammed\source\repos\Task9\Task9\obj\Debug\net5.0\Task9.csprojAssemblyReference.cache
+C:\Users\Mohammed\source\repos\Task9\Task9\obj\Debug\net5.0\Task9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammed\source\repos\Task9\Task9\obj\Debug\net5.0\Task9.AssemblyInfoInputs.cache
+C:\Users\Mohammed\source\repos\Task9\Task9\obj\Debug\net5.0\Task9.AssemblyInfo.cs
+C:\Users\Mohammed\source\repos\Task9\Task9\obj\Debug\net5.0\Task9.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed\source\repos\Task9\Task9\obj\Debug\net5.0\Task9.dll
+C:\Users\Mohammed\source\repos\Task9\Task9\obj\Debug\net5.0\ref\Task9.dll
+C:\Users\Mohammed\source\repos\Task9\Task9\obj\Debug\net5.0\Task9.pdb
+C:\Users\Mohammed\source\repos\Task9\Task9\obj\Debug\net5.0\Task9.genruntimeconfig.cache

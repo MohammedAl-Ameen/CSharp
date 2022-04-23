@@ -1,0 +1,8 @@
+Name		Price		Amount
+Table		100		7
+Sofa		120		5
+Cupboard	200		9
+Bed		280		5
+
+ 
+Total Sales = 4500 JD

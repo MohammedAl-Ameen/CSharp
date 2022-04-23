@@ -1,0 +1,10 @@
+C:\Users\Mohammed\source\repos\lab08\lab08\bin\Debug\lab08.exe.config
+C:\Users\Mohammed\source\repos\lab08\lab08\bin\Debug\lab08.exe
+C:\Users\Mohammed\source\repos\lab08\lab08\bin\Debug\lab08.pdb
+C:\Users\Mohammed\source\repos\lab08\lab08\obj\Debug\lab08.csprojAssemblyReference.cache
+C:\Users\Mohammed\source\repos\lab08\lab08\obj\Debug\lab08.Form1.resources
+C:\Users\Mohammed\source\repos\lab08\lab08\obj\Debug\lab08.Properties.Resources.resources
+C:\Users\Mohammed\source\repos\lab08\lab08\obj\Debug\lab08.csproj.GenerateResource.cache
+C:\Users\Mohammed\source\repos\lab08\lab08\obj\Debug\lab08.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed\source\repos\lab08\lab08\obj\Debug\lab08.exe
+C:\Users\Mohammed\source\repos\lab08\lab08\obj\Debug\lab08.pdb

@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Task10/1.0.0": {
+        "dependencies": {
+          "nunit.framework": "2.6.0.12051",
+          "pnunit.framework": "1.0.4433.35729"
+        },
+        "runtime": {
+          "Task10.dll": {}
+        }
+      },
+      "nunit.framework/2.6.0.12051": {
+        "runtime": {
+          "nunit.framework.dll": {
+            "assemblyVersion": "2.6.0.12051",
+            "fileVersion": "2.6.0.12051"
+          }
+        }
+      },
+      "pnunit.framework/1.0.4433.35729": {
+        "runtime": {
+          "pnunit.framework.dll": {
+            "assemblyVersion": "1.0.4433.35729",
+            "fileVersion": "1.0.4433.35729"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "nunit.framework/2.6.0.12051": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "pnunit.framework/1.0.4433.35729": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
